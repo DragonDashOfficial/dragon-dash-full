@@ -1,0 +1,1 @@
+console.log('Dragon Dash game loaded');
